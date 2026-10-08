@@ -281,15 +281,3 @@ footer {
     height: 30px;
   }
 }
-If you're using Vite
-Your project can look like:
-
-my-react-project/
-├── src/
-│   ├── App.jsx
-│   ├── App.css
-│   └── main.jsx
-├── public/
-├── package.json
-├── vite.config.js
-└── index.html
